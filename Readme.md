@@ -1,5 +1,5 @@
 <h1 align='center'>
- Namaste, I am Tejas:star:
+ Hi, I am Tejas:star:
 </h1>
 
 <p align='center'>
