@@ -27,10 +27,10 @@ A Student of Information Technology from Navi Mumbai, India
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:jigmaths2487@gmail.com'>jigmaths2487@gmail.com</a>
+  📫 How to reach me: <a href='mailto:tejasjagdale2003@gmail.com'>tejasjagdale2003@gmail.com</a>
 </p>
 <br>
-<details>
+<!-- <details>
   <summary>📃 Education</summary>
 
 
@@ -46,7 +46,7 @@ A Student of Information Technology from Navi Mumbai, India
 👨‍🎓 2019 - 2023\
 📍 Fr. Conceicao Rodrigues Institute of Technology, Vashi, Navi Mumbai
   
-</details>
+</details> -->
 <br>
 
 <details>
@@ -60,7 +60,7 @@ A Student of Information Technology from Navi Mumbai, India
 <img align="right" src="https://img.shields.io/badge/HTML 5-E34F26?logo=HTML5&logoColor=white" />
 
 
-- 👨‍💻 **Internship**\
+<!-- - 👨‍💻 **Internship**\
 📆 August 2021\
 📍 **The Sparks Foundation** - Navi Mumbai, India
  <br>
@@ -73,7 +73,7 @@ A Student of Information Technology from Navi Mumbai, India
  
 - 👨‍💻 **Internship**\
 📆 August 2021 - October 2021\
-📍 **Reliance Jio** - Navi Mumbai, India
+📍 **Reliance Jio** - Navi Mumbai, India -->
 
  <br>
 <img align="right" src="https://img.shields.io/badge/Teams-6264A7?logo=Microsoft Teams&logoColor=white" />
