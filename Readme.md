@@ -78,7 +78,7 @@ A Student of Information Technology from Navi Mumbai, India
  <br>
 <img align="right" src="https://img.shields.io/badge/Teams-6264A7?logo=Microsoft Teams&logoColor=white" />
 
-- 👨‍💻 **Meeting Co-ordinator**\
+<!-- - 👨‍💻 **Meeting Co-ordinator**\
 📍 **The Computer Society Of India, FCRIT-IT** - Navi Mumbai, India
 
 </details>
@@ -95,7 +95,7 @@ A Student of Information Technology from Navi Mumbai, India
 -  **Anime**
 -  **Podcasts and GK**
 -  **Music**
-</details>
+</details> -->
 
 <br>
 <p>
