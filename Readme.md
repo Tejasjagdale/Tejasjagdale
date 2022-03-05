@@ -64,6 +64,7 @@ A Student of Information Technology from Navi Mumbai, India
 <img align="right" src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1a?logo=JavaScript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 
  
 **Programming**
