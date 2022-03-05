@@ -10,20 +10,9 @@ A Student of Information Technology from Navi Mumbai, India
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/jignesh-mathure-535353213/">
+  <a href="https://www.linkedin.com/in/tejas-jagdale-02b930217/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jigsaw.rtf/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-    <a href="https://codepen.io/j1gs4w2487/">
-    <img src="https://img.shields.io/badge/codepen-%FFD700.svg?&style=for-the-badge&logo=codepen&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-     <a href="https://jig-port.netlify.app//">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B9.svg?&style=for-the-badge&logo=&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-  
 </p>
 <br>
 
