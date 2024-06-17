@@ -73,12 +73,6 @@ A Student of Information Technology from Navi Mumbai, India
  
 **Operating Systems**
 
-<img align="right" src="https://img.shields.io/badge/Marathi-0078D6?&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Hindi-0078D6?&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/English-0078D6?&logoColor=white" />
-
-**Languages**
-
 </details>
 
 
