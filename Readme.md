@@ -53,5 +53,5 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:tejasjagdale2003@gmail.com">tejasjagdale2003@gmail.com</a>
+  <a href="mailto:tejasjagdale2003@gmail.com">tejasjagdale60@gmail.com</a>
 </p>
