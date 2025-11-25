@@ -27,7 +27,7 @@ A Student of Information Technology from Navi Mumbai, India
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:tejasjagdale2003@gmail.com'>tejasjagdale2003@gmail.com</a>
+  📫 How to reach me: <a href='mailto:tejasjagdale2003@gmail.com'>tejasjagdale60@gmail.com</a>
 </p>
 <br>
 <!-- <details>
